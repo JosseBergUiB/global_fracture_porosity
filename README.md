@@ -17,3 +17,6 @@ The workflow includes:
 ## Citation
 If you use this code, please cite:
 van den Berg, J. et al. (2026). *A global assessment of effective fracture porosity and density in crystalline rocks*.## ContactJosse Maria van den Berg  University of Bergen
+
+## Acknowledgements
+Parts of the code and repository structure were developed with the assistance of AI-based tools to improve clarity and efficiency.
